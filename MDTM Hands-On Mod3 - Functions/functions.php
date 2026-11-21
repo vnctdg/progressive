@@ -4,9 +4,12 @@ declare(strict_types=1);
 
 // 2. Multidimensional array
 $candy = [
-    'Toffee' => ['price' => 3.00, 'stock' => 12],
-    'Mints'  => ['price' => 2.00, 'stock' => 26],
-    'Fudge'  => ['price' => 4.00, 'stock' => 8],
+    'Toffee'   => ['price' => 3.00, 'stock' => 12],
+    'Mints'    => ['price' => 2.00, 'stock' => 26],
+    'Fudge'    => ['price' => 4.00, 'stock' => 8],
+    'Caramel'  => ['price' => 5.00, 'stock' => 15],
+    'Lollipop' => ['price' => 1.50, 'stock' => 6],
+    'Gummies'  => ['price' => 3.50, 'stock' => 20],
 ];
 
 // 3. Global variable for tax rate
